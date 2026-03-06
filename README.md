@@ -342,26 +342,23 @@ This repository will contain reusable assets for running Tech After Dark events.
 
 Planned structure:
 
+```
 TechAfterDark/
-
-README.md
-agenda-template.md
-
-slides/
-github-enterprise-overview.pptx
-copilot-demo.pptx
-advanced-security.pptx
-
-quiz/
-mentimeter-questions.md
-
-coding-challenges/
-challenge-1.md
-challenge-2.md
-
-event-assets/
-email-templates.md
-speaker-guidelines.md
+├── README.md
+├── agenda-template.md
+├── slides/
+│   ├── github-enterprise-overview.pptx
+│   ├── copilot-demo.pptx
+│   └── advanced-security.pptx
+├── quiz/
+│   └── mentimeter-questions.md
+├── coding-challenges/
+│   ├── challenge-1.md
+│   └── challenge-2.md
+└── event-assets/
+    ├── email-templates.md
+    └── speaker-guidelines.md
+```
 
 
 ---
