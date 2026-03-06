@@ -8,6 +8,37 @@ This repository contains the **playbook and operational guide** for running a Te
 
 ---
 
+## Table of Contents
+
+- [Objectives](#objectives)
+- [Event Format Overview](#event-format-overview)
+- [Ideal Audience](#ideal-audience)
+- [Venue Guidelines](#venue-guidelines)
+- [Roles & Responsibilities](#roles--responsibilities)
+  - [Event Lead](#event-lead)
+  - [Host / MC](#host--mc)
+  - [Technical Speakers](#technical-speakers)
+  - [Coding Showdown Judge](#coding-showdown-judge)
+- [Event Agenda Template](#event-agenda-template)
+- [Quiz Segment (Mentimeter)](#quiz-segment-mentimeter)
+- [Coding Showdown](#coding-showdown)
+  - [Format](#format)
+  - [Judging Criteria](#judging-criteria)
+  - [Example Challenge Ideas](#example-challenge-ideas)
+- [Prize Ideas](#prize-ideas)
+- [Event Preparation Checklist](#event-preparation-checklist)
+  - [4–6 Weeks Before](#46-weeks-before)
+  - [2–3 Weeks Before](#23-weeks-before)
+  - [1 Week Before](#1-week-before)
+  - [Event Day](#event-day)
+- [Post Event Follow-Up](#post-event-follow-up)
+- [Metrics to Track](#metrics-to-track)
+- [Repository Structure](#repository-structure)
+- [Contributing](#contributing)
+- [Philosophy](#philosophy)
+
+---
+
 # Objectives
 
 Tech After Dark aims to:
