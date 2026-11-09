@@ -345,13 +345,11 @@ Planned structure:
 ```
 TechAfterDark/
 ├── README.md
-├── agenda-template.md
-├── slides/
-│   ├── github-enterprise-overview.pptx
-│   ├── copilot-demo.pptx
-│   └── advanced-security.pptx
-├── quiz/
-│   └── mentimeter-questions.md
+├── photos/
+│   └── bangkok/
+│   └── bangalore/
+│   └── chennai/
+│   └── singapore/
 ├── coding-challenges/
 │   ├── challenge-1.md
 │   └── challenge-2.md
@@ -360,6 +358,21 @@ TechAfterDark/
     └── speaker-guidelines.md
 ```
 
+### Bangkok Event Photos
+
+Browse the [Bangkok event photos](photos/bangkok/).
+
+### Bangalore Event Photos
+
+Browse the [Bangalore event photos](photos/bangalore/).
+
+### Chennai Event Photos
+
+Browse the [Chennai event photos](photos/chennai/).
+
+### Singapore Event Photos
+
+Browse the [Singapore event photos](photos/singapore/).
 
 ---
 
