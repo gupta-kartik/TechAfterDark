@@ -14,6 +14,8 @@ This repository contains the **playbook and operational guide** for running a Te
 - [Event Format Overview](#event-format-overview)
 - [Ideal Audience](#ideal-audience)
 - [Venue Guidelines](#venue-guidelines)
+- [Event Photos](#event-photos)
+- [Runsheet Slides](#runsheet-slides)
 - [Roles & Responsibilities](#roles--responsibilities)
   - [Event Lead](#event-lead)
   - [Host / MC](#host--mc)
@@ -97,6 +99,21 @@ Preferred venue characteristics:
 - Tables suitable for laptops (for coding showdown)
 
 The goal is to **feel social rather than corporate**.
+
+---
+
+# Event Photos
+
+- [Bangkok](photos/bangkok/)
+- [Bangalore](photos/bangalore/)
+- [Chennai](photos/chennai/)
+- [Singapore](photos/singapore/)
+
+---
+
+# Runsheet Slides
+
+[Tech After Dark runsheet slides](https://onedrive.cloud.microsoft/:p:/a@3r498cu9/S/cQrkDbTtRmIqQY2oQglFLNDXEgUCVwKmE9r1Ga7ZzKDNOYXwjA) (accessible to Microsoft employees only).
 
 ---
 
@@ -346,33 +363,13 @@ Planned structure:
 TechAfterDark/
 ├── README.md
 ├── photos/
-│   └── bangkok/
-│   └── bangalore/
-│   └── chennai/
-│   └── singapore/
 ├── coding-challenges/
 │   ├── challenge-1.md
 │   └── challenge-2.md
-└── event-assets/
+└── email-templates/
     ├── email-templates.md
     └── speaker-guidelines.md
 ```
-
-### Bangkok Event Photos
-
-Browse the [Bangkok event photos](photos/bangkok/).
-
-### Bangalore Event Photos
-
-Browse the [Bangalore event photos](photos/bangalore/).
-
-### Chennai Event Photos
-
-Browse the [Chennai event photos](photos/chennai/).
-
-### Singapore Event Photos
-
-Browse the [Singapore event photos](photos/singapore/).
 
 ---
 
