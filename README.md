@@ -54,7 +54,7 @@ Tech After Dark aims to:
 
 # Event Format Overview
 
-Typical duration: **2–2.5 hours**
+Typical duration: **3 hours**.
 
 The event alternates between **short talks and interactive segments** to keep energy high.
 
@@ -64,11 +64,10 @@ Example agenda:
 |-------|-------------|
 | Welcome & Networking | Drinks, introductions, informal conversations |
 | Talk 1 | Short talk on GitHub Enterprise capabilities |
-| Quiz Round | Mentimeter fastest-finger-first quiz |
 | Talk 2 | GitHub Copilot demo or AI-assisted development |
 | Coding Showdown | Live Copilot coding challenge between participants |
 | Talk 3 | GitHub Advanced Security |
-| Quiz Round | Final trivia questions |
+| Trivia | Mentimeter fastest-finger-first quiz |
 | Closing | Prize announcements, networking |
 
 ---
@@ -152,7 +151,7 @@ Present short technical talks.
 
 Guidelines:
 
-- Keep talks **10–15 minutes**
+- Keep talks **20 minutes**
 - Focus on **practical use cases**
 - Avoid heavy product marketing
 - Include demos where possible
@@ -177,27 +176,25 @@ Responsible for:
 
 # Event Agenda Template
 
-Below is a sample agenda for a 2-hour event.
+Below is a sample agenda for a 2-hour 45-minute event.
 
-18:30 – 19:00 Arrival & Networking
+17:00 – 17:30 Arrival & Networking
 
-19:00 – 19:05 Welcome
+17:30 – 17:35 Welcome
 
-19:05 – 19:20 Talk: Modern Software Development with GitHub
+17:35 – 17:55 Talk: Modern Software Development with GitHub
 
-19:20 – 19:30 Quiz Round #1
+17:55 – 18:15 Talk: AI Assisted Development with Copilot
 
-19:30 – 19:45 Talk: AI Assisted Development with Copilot
+18:15 – 19:00 Coding Showdown
 
-19:45 – 20:00 Coding Showdown
+19:00 – 19:20 Talk: Securing the Software Supply Chain
 
-20:00 – 20:15 Talk: Securing the Software Supply Chain
+19:20 – 19:40 Trivia
 
-20:15 – 20:25 Quiz Round #2
+19:40 – 19:45 Closing & Prize Distribution
 
-20:25 – 20:30 Prize Distribution
-
-20:30 – onwards Networking
+19:45 – onwards Networking
 
 
 ---
@@ -234,8 +231,7 @@ Two participants compete to solve a programming challenge using **GitHub Copilot
 
 ## Format
 
-- Two volunteers from the audience
-- 10–15 minute challenge
+- 45 minutes total, including selecting two volunteers from the audience and running the challenge
 - Participants project their screen
 - Audience watches live
 
