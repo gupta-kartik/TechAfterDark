@@ -35,7 +35,6 @@ This repository contains the **playbook and operational guide** for running a Te
   - [Event Day](#event-day)
 - [Post Event Follow-Up](#post-event-follow-up)
 - [Metrics to Track](#metrics-to-track)
-- [Repository Structure](#repository-structure)
 - [Contributing](#contributing)
 - [Philosophy](#philosophy)
 
@@ -352,24 +351,6 @@ Business metrics:
 - POCs initiated
 
 ---
-
-# Repository Structure
-
-This repository will contain reusable assets for running Tech After Dark events.
-
-Planned structure:
-
-```
-TechAfterDark/
-├── README.md
-├── photos/
-├── coding-challenges/
-│   ├── challenge-1.md
-│   └── challenge-2.md
-└── email-templates/
-    ├── email-templates.md
-    └── speaker-guidelines.md
-```
 
 ---
 
